@@ -1,0 +1,360 @@
+{ "category_details" : [
+
+    {
+        "name": "Abortion",
+        "ip": "10.0.0.1"
+    },
+    {
+        "name": "Advertising",
+        "ip": "10.0.0.2"
+    },
+    {
+        "name": "Advocacy Organizations",
+        "ip": "10.0.0.3"
+    },
+    {
+        "name": "Alcohol",
+        "ip": "10.0.0.4"
+    },
+    {
+        "name": "Alternative Beliefs",
+        "ip": "10.0.0.5"
+    },
+    {
+        "name": "Army",
+        "ip": "10.0.0.6"
+    },
+    {
+        "name": "Cultural",
+        "ip": "10.0.0.7"
+    },
+    {
+        "name": "Auction",
+        "ip": "10.0.0.8"
+    },
+    {
+        "name": "Trade",
+        "ip": "10.0.0.9"
+    },
+    {
+        "name": "Business",
+        "ip": "10.0.0.10"
+    },
+    {
+        "name": "Charity",
+        "ip": "10.0.0.11"
+    },
+    {
+        "name": "Education",
+        "ip": "10.0.0.12"
+    },
+    {
+        "name": "Content Servers",
+        "ip": "10.0.0.13"
+    },
+    {
+        "name": "Dating",
+        "ip": "10.0.0.14"
+    },
+    {
+        "name": "Postcard",
+        "ip": "10.0.0.15"
+    },
+    {
+        "name": "Parked",
+        "ip": "10.0.0.16"
+    },
+    {
+        "name": "Drug Abuse",
+        "ip": "10.0.0.17"
+    },
+    {
+        "name": "Dynamic Content",
+        "ip": "10.0.0.18"
+    },
+    {
+        "name": "Dynamic DNS",
+        "ip": "10.0.0.19"
+    },
+    {
+        "name": "Education",
+        "ip": "10.0.0.20"
+    },
+    {
+        "name": "Entertainment",
+        "ip": "10.0.0.21"
+    },
+    {
+        "name": "Violence",
+        "ip": "10.0.0.22"
+    },
+    {
+        "name": "Cloud Storage",
+        "ip": "10.0.0.23"
+    },
+    {
+        "name": "Finance",
+        "ip": "10.0.0.24"
+    },
+    {
+        "name": "Folklore",
+        "ip": "10.0.0.25"
+    },
+    {
+        "name": "Download",
+        "ip": "10.0.0.26"
+    },
+    {
+        "name": "Gambling",
+        "ip": "10.0.0.27"
+    },
+    {
+        "name": "Games",
+        "ip": "10.0.0.28"
+    },
+    {
+        "name": "Organizations",
+        "ip": "10.0.0.29"
+    },
+    {
+        "name": "Religion",
+        "ip": "10.0.0.30"
+    },
+    {
+        "name": "Govt",
+        "ip": "10.0.0.31"
+    },
+    {
+        "name": "Hacking",
+        "ip": "10.0.0.32"
+    },
+    {
+        "name": "Health",
+        "ip": "10.0.0.33"
+    },
+    {
+        "name": "Homosexuality",
+        "ip": "10.0.0.34"
+    },
+    {
+        "name": "Unethical",
+        "ip": "10.0.0.35"
+    },
+    {
+        "name": "IT",
+        "ip": "10.0.0.36"
+    },
+    {
+        "name": "Messaging",
+        "ip": "10.0.0.37"
+    },
+    {
+        "name": "Radio",
+        "ip": "10.0.0.38"
+    },
+    {
+        "name": "Internet Telephony",
+        "ip": "10.0.0.39"
+    },
+    {
+        "name": "Jobs",
+        "ip": "10.0.0.40"
+    },
+    {
+        "name": "Shopping",
+        "ip": "10.0.0.41"
+    },
+    {
+        "name": "Malicious",
+        "ip": "10.0.0.42"
+    },
+    {
+        "name": "Marijuana",
+        "ip": "10.0.0.43"
+    },
+    {
+        "name": "Meaningless Content",
+        "ip": "10.0.0.44"
+    },
+    {
+        "name": "Medicine",
+        "ip": "10.0.0.45"
+    },
+    {
+        "name": "Newly Observed Domain",
+        "ip": "10.0.0.46"
+    },
+    {
+        "name": "News",
+        "ip": "10.0.0.47"
+    },
+    {
+        "name": "News",
+        "ip": "10.0.0.48"
+    },
+    {
+        "name": "Not Rated",
+        "ip": "10.0.0.49"
+    },
+    {
+        "name": "Nudity",
+        "ip": "10.0.0.50"
+    },
+    {
+        "name": "Adult",
+        "ip": "10.0.0.51"
+    },
+    {
+        "name": "Personal Vehicles",
+        "ip": "10.0.0.52"
+    },
+    {
+        "name": "Personal Websites and Blogs",
+        "ip": "10.0.0.53"
+    },
+    {
+        "name": "Phishing",
+        "ip": "10.0.0.54"
+    },
+    {
+        "name": "Plagiarism",
+        "ip": "10.0.0.55"
+    },
+    {
+        "name": "Political",
+        "ip": "10.0.0.56"
+    },
+    {
+        "name": "Porn",
+        "ip": "10.0.0.57"
+    },
+    {
+        "name": "Proxy Avoidance",
+        "ip": "10.0.0.58"
+    },
+    {
+        "name": "Real Estate",
+        "ip": "10.0.0.59"
+    },
+    {
+        "name": "Reference",
+        "ip": "10.0.0.60"
+    },
+    {
+        "name": "Restaurants",
+        "ip": "10.0.0.61"
+    },
+    {
+        "name": "Search",
+        "ip": "10.0.0.62"
+    },
+    {
+        "name": "Sex Education",
+        "ip": "10.0.0.63"
+    },
+    {
+        "name": "Shopping",
+        "ip": "10.0.0.64"
+    },
+    {
+        "name": "Socials",
+        "ip": "10.0.0.65"
+    },
+    {
+        "name": "Society and Lifestyles",
+        "ip": "10.0.0.66"
+    },
+    {
+        "name": "Spam URLs",
+        "ip": "10.0.0.67"
+    },
+    {
+        "name": "Sports",
+        "ip": "10.0.0.68"
+    },
+    {
+        "name": "Sports",
+        "ip": "10.0.0.69"
+    },
+    {
+        "name": "Streaming",
+        "ip": "10.0.0.70"
+    },
+    {
+        "name": "Tobacco",
+        "ip": "10.0.0.71"
+    },
+    {
+        "name": "Travel",
+        "ip": "10.0.0.72"
+    },
+    {
+        "name": "Weapons",
+        "ip": "10.0.0.73"
+    },
+    {
+        "name": "Web Chat",
+        "ip": "10.0.0.74"
+    },
+    {
+        "name": "Web Hosting",
+        "ip": "10.0.0.75"
+    },
+    {
+        "name": "Web-based Applications",
+        "ip": "10.0.0.76"
+    },
+    {
+        "name": "Web-based Email",
+        "ip": "10.0.0.77"
+    },
+    {
+        "name": "Web Analytics",
+        "ip": "10.0.0.79"
+    },
+    {
+        "name": "IT",
+        "ip": "10.0.0.80"
+    },
+    {
+        "name": "Secure Websites",
+        "ip": "10.0.0.81"
+    },
+    {
+        "name": "Meeting",
+        "ip": "10.0.0.82"
+    },
+    {
+        "name": "Remote Access",
+        "ip": "10.0.0.83"
+    },
+    {
+        "name": "Newly Registered Domain",
+        "ip": "10.0.0.84"
+    },
+    {
+        "name": "Cloud Storage",
+        "ip": "10.0.0.85"
+    },
+    {
+        "name": "Child Abuse",
+        "ip": "10.0.0.86"
+    },
+    {
+        "name": "Discrimination",
+        "ip": "10.0.0.88"
+    },
+    {
+        "name": "Personal Privacy",
+        "ip": "10.0.0.90"
+    },
+    {
+        "name": "Others",
+        "ip": "10.0.0.91"
+    },
+    {
+        "name": "Extremist Groups",
+        "ip": "10.0.0.92"
+    }
+]
+}f
