@@ -1,2 +1,2 @@
 # category-lookup
-Website Category lookup at DNS level.
+Website Category lookup over DNS level.
