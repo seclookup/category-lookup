@@ -1,7 +1,7 @@
 import requests, json
 
 # API_KEY of account, please refer API Key tab after login via browser
-API_KEY = "O8vxLvd8ri_UTRFimWwRiwzC3WiXVhItyFPmHJ33jTWcZxN-71Iz8wgCHs1x5V6hchJTrDEyZTgJU5xI1pYnIA"
+API_KEY = "<your_API_key>"
 
 # Comma Separated list of IPs of devices for which connection to DNS should be allowed
 # Number of IPs in list should NOT exceed total number of IPs allowed under your account.
